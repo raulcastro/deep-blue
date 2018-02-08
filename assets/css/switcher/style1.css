@@ -1,9 +1,9 @@
 #style-switcher h2 a { background: #fff none repeat scroll 0 0 }
 #style-switcher h2 a i {color: #f9461d;}
 
-.section-title span{background: #f9461d none repeat scroll 0 0;}
+.section-title span{background: #44b7da none repeat scroll 0 0;}
 
-.topcontrol {background: #f9461d none repeat scroll 0 0;}
+.topcontrol {background: #44b7dacc none repeat scroll 0 0;}
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
@@ -22,7 +22,7 @@
 .navbar-default.menu-shrink li a:hover { color: #f9461d !important }
 .navbar-default .navbar-toggle .icon-bar { background-color: #f9461d }
 .single_about span{background: #f9461d none repeat scroll 0 0;}
-.serviceBox:hover .service-icon{color: #f9461d;}
+.serviceBox:hover .service-icon{color: #44b7da;}
 .serviceBox:hover:after{border-color: #f9461d;}
 
 .our-team .icon{background: #f9461d none repeat scroll 0 0;}
